@@ -1,0 +1,57 @@
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.sourcelink.json
+C:\Users\II novbe\source\repos\Planets\Planets\bin\Debug\net8.0\Planets.exe
+C:\Users\II novbe\source\repos\Planets\Planets\bin\Debug\net8.0\Planets.deps.json
+C:\Users\II novbe\source\repos\Planets\Planets\bin\Debug\net8.0\Planets.runtimeconfig.json
+C:\Users\II novbe\source\repos\Planets\Planets\bin\Debug\net8.0\Planets.dll
+C:\Users\II novbe\source\repos\Planets\Planets\bin\Debug\net8.0\Planets.pdb
+C:\Users\II novbe\source\repos\Planets\Planets\bin\Debug\net8.0\Core.dll
+C:\Users\II novbe\source\repos\Planets\Planets\bin\Debug\net8.0\Core.pdb
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.csproj.Up2Date
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.dll
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\refint\Planets.dll
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.pdb
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\Planets.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\Planets\Planets\obj\Debug\net8.0\ref\Planets.dll
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\bin\Debug\net8.0\Planets.exe
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\bin\Debug\net8.0\Planets.deps.json
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\bin\Debug\net8.0\Planets.runtimeconfig.json
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\bin\Debug\net8.0\Planets.dll
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\bin\Debug\net8.0\Planets.pdb
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\bin\Debug\net8.0\Core.dll
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\bin\Debug\net8.0\Core.pdb
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.csproj.AssemblyReference.cache
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.AssemblyInfoInputs.cache
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.AssemblyInfo.cs
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.sourcelink.json
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.csproj.Up2Date
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.dll
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\refint\Planets.dll
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.pdb
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\Planets.genruntimeconfig.cache
+C:\Users\bexti\OneDrive\Рабочий стол\Anar's Space\Anar-s-Space\Planets\obj\Debug\net8.0\ref\Planets.dll
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.sourcelink.json
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.dll
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\refint\Planets.dll
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.pdb
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\bin\Debug\net8.0\Planets.exe
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\bin\Debug\net8.0\Planets.deps.json
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\bin\Debug\net8.0\Planets.runtimeconfig.json
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\bin\Debug\net8.0\Planets.dll
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\bin\Debug\net8.0\Planets.pdb
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\bin\Debug\net8.0\Core.dll
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\bin\Debug\net8.0\Core.pdb
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\ref\Planets.dll
+C:\Users\II novbe\Desktop\New folder (3)\SpaceTask\Planets\obj\Debug\net8.0\Planets.csproj.Up2Date
